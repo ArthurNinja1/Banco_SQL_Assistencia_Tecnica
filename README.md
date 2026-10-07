@@ -2,4 +2,4 @@
 Banco de dados, sistema de assistencia tecnica
 
 
-![Diagrama](URL_da_imagem)
+![Diagrama](https://github.com/ArthurNinja1/Banco_SQL_Assistencia_Tecnica/blob/main/draw/draw.png)
